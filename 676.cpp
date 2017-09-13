@@ -1,4 +1,4 @@
-class MagicDictionary { // Lincoln 1 attempt AC 3ms
+class MagicDictionary { 
 public:
 	unordered_map <string,int> dictionary;
     /** Initialize your data structure here. */
